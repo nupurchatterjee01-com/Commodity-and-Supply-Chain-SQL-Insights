@@ -1,10 +1,10 @@
-#Commodities
+SQL Code
 
 -- Question 1: Get the common commodities between the Top 10 costliest commodities of 2019 and 2020.
 -- Expected Output: Commodity | price difference;  Retain the info for highest difference
 
 
-# Meaning:
+  Meaning:
 -- First find the common commodities between:
 -- Top 10 costliest commodities of 2019
 -- Top 10 costliest commodities of 2020
