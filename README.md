@@ -14,7 +14,7 @@ Commodity dataset collected from institute-provided datasets.
 
 FEATURES :
 
-1) Introduction
+1)Introduction
 The project focuses on analyzing commodity data such as product categories, prices, quantities
 and market trends using SQL queries.
 
