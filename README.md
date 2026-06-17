@@ -28,11 +28,18 @@ c)Understand market demand patterns
 
 d)Make informed pricing decisions
 
-4) Analysis Goals 
-.Analyze commodity price trends
-.Identify top-performing commodities
-.Compare categories based on price and quantity
-.Generate insights for business decision-making
+
+3)Analysis Goals 
+
+a)Analyze commodity price trends
+
+b)Identify top-performing commodities
+
+c)Compare categories based on price and quantity
+
+d)Generate insights for business decision-making
+
+
 
 4)Query Results & Insights
 
