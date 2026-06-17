@@ -19,12 +19,15 @@ The project focuses on analyzing commodity data such as product categories, pric
 and market trends using SQL queries.
 
 2) Business Problem
-.Monitor price fluctuations
-.Identify high-performing commodities
-.Understand market demand patterns
-.Make informed pricing decisions
+a)Monitor price fluctuations
 
-3) Analysis Goals 
+b)Identify high-performing commodities
+
+c)Understand market demand patterns
+
+d)Make informed pricing decisions
+
+4) Analysis Goals 
 .Analyze commodity price trends
 .Identify top-performing commodities
 .Compare categories based on price and quantity
