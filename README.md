@@ -18,7 +18,8 @@ FEATURES :
 The project focuses on analyzing commodity data such as product categories, prices, quantities
 and market trends using SQL queries.
 
-2) Business Problem
+2)Business Problem
+   
 a)Monitor price fluctuations
 
 b)Identify high-performing commodities
