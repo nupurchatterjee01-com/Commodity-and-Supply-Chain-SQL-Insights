@@ -1,4 +1,4 @@
-PROJECT TITLE :  Supply Chain Data Analysis Using SQL
+PROJECT TITLE :  Supply Chain Data Analysis 
 
 
 DESCRIPTION :
