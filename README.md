@@ -93,15 +93,16 @@ INSIGHTS:
 
 BUSINESS IMPACT
 
-1. Helps identify the most preferred payment methods and optimize transaction processing strategies.
+1.Helps evaluate shipping efficiency across departments and improve logistics planning.
 
-2. Helps identify high-value customers and supports targeted marketing and customer retention efforts.
+2.Helps monitor delivery performance, reduce shipping delays, and improve customer satisfaction.
 
-3. Helps evaluate shipping efficiency across departments and improve logistics planning.
+3.Helps identify states with high cancellation rates and enables businesses to take corrective actions to reduce order losses.
 
-4. Helps monitor delivery performance, reduce shipping delays, and improve customer satisfaction.
+4.Helps prioritize high-value customers to ensure product availability and improve service levels.
 
-5. Helps identify states with high cancellation rates and enables businesses to take corrective actions to reduce order    losses.
+
+5.Helps identify customers contributing the highest order volume and sales, enabling better demand forecasting, inventory planning, and customer relationship management.
 
 
 
