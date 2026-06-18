@@ -68,7 +68,7 @@ How I solve-
 Created shipment categories using a CASE statement based on real and scheduled shipping days. Identified delayed shipments and used a window function (COUNT() OVER) to determine the shipping mode with the highest number of delayed orders.
 
 
-5. An order is cancelled when the status of the order is either CANCELED or SUSPECTED_FRAUD. 
+5.An order is cancelled when the status of the order is either CANCELED or SUSPECTED_FRAUD. 
 Obtain the list of states by the order cancellation % and sort them in the descending.
 
 
